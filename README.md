@@ -1,6 +1,6 @@
-# My Dictionary App
+# React Dictionary App
 
-My Dictionary App is a responsive React application that lets users search for word definitions using the [Dictionary API](https://dictionaryapi.dev/). It displays definitions, parts of speech, and even plays an audio pronunciation (if available) for the searched word. The app is built using modern tooling for fast development and efficient production builds.
+The React Dictionary App is a responsive React application that lets users search for word definitions using the [Dictionary API](https://dictionaryapi.dev/). It displays definitions, parts of speech, and even plays an audio pronunciation (if available) for the searched word. The app is built using modern tooling for fast development and efficient production builds.
 
 ## Features
 
