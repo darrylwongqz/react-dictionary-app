@@ -21,7 +21,7 @@ The React Dictionary App is a responsive React application that lets users searc
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd my-dictionary-app
+   cd react-dictionary-app-master
    ```
 
 3. **Install Dependencies:**
@@ -71,7 +71,7 @@ Vitest will run your test suites in a jsdom environment, and you’ll see the te
 ## Project Structure
 
 ```
-my-dictionary-app/
+react-dictionary-app-master/
 ├── public/                # Static assets and index.html
 ├── src/
 │   ├── components/        # React components (SearchBar, DefinitionDisplay, AudioPlayer, etc.)
